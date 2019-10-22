@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sentence-filler
+  cloud:
+    config:
+      uri: http://localhost:8002
